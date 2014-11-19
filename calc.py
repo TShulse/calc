@@ -40,7 +40,7 @@ def exp(a, b):
 	return a ** b
 
 # Modulus division function
-def mod(a, b)
+def mod(a, b):
 	return a % b
 
 # -------------------------------------------------------- #
